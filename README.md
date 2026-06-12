@@ -208,7 +208,7 @@ Contact Splash Brothers
 
 <input type="tel" placeholder="Phone Number" required>
 
-<textarea rows="5" placeholder="Tell us about your project"></textarea>
+
 
 <button type="submit">
 Request Free Estimate
@@ -245,26 +245,7 @@ Request Free Estimate
 
 </footer>
 
-<script>
 
-function calculateQuote(){
-
-let sqft = document.getElementById("sqft").value;
-
-if(sqft <= 0){
-document.getElementById("result").innerHTML =
-"Please enter a valid square footage.";
-return;
-}
-
-let estimate = sqft * 0.25;
-
-document.getElementById("result").innerHTML =
-"Estimated Price: $" + estimate.toFixed(2);
-
-}
-
-</script>
 
 </body>
 </html>

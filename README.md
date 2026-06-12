@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Splash Brothers Pressure Washing LLC | Washington DC, Maryland & Virginia</title>
-
-<meta name="description" content="Splash Brothers Pressure Washing LLC provides professional pressure washing, house washing, driveway cleaning, deck cleaning, garbage can cleaning, and commercial exterior cleaning throughout Washington DC, Maryland, and Virginia. Free estimates available.">
-
-<meta name="keywords" content="pressure washing Maryland, pressure washing Virginia, pressure washing Washington DC, driveway cleaning, house washing, roof cleaning, commercial pressure washing">
-
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-
-<style>
 
 *{
 margin:0;

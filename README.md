@@ -9,7 +9,7 @@
 <nav>
 
 <div class="logo">
-💦 Splash Brothers
+💦 Splash Brothers DMV
 </div>
 
 <ul>
@@ -32,7 +32,7 @@
 
 <div class="hero-content">
 
-<h1>Splash Brothers Pressure Washing LLC</h1>
+<h1>Splash Brothers DMV</h1>
 
 <p>
 Professional Pressure Washing Services Throughout
@@ -224,14 +224,6 @@ Request Free Estimate
 
 <div class="map">
 
-<iframe
-src="https://www.google.com/maps/embed?pb="
-width="100%"
-height="450"
-style="border:0;"
-allowfullscreen=""
-loading="lazy">
-</iframe>
 
 </div>
 
@@ -239,7 +231,7 @@ loading="lazy">
 
 <footer>
 
-<h3>Splash Brothers Pressure Washing LLC</h3>
+<h3>Splash Brothers DMV</h3>
 
 <p>Serving Washington DC • Maryland • Virginia</p>
 
@@ -249,7 +241,7 @@ loading="lazy">
 
 <p>Licensed & Insured</p>
 
-<p>© 2026 Splash Brothers Pressure Washing LLC</p>
+<p>© 2026 Splash Brothers DMV</p>
 
 </footer>
 
